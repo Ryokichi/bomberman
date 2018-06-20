@@ -11,7 +11,7 @@ ResourceIncludes=
 MakeIncludes=
 Compiler=
 CppCompiler=-std=c++11_@@_
-Linker=-lws2_32_@@__@@_-lbgi_@@_-lgdi32_@@_-lcomdlg32_@@_-luuid_@@_-loleaut32_@@_-lole32_@@_
+Linker=-lws2_32_@@__@@_-lbgi_@@_-lgdi32_@@_-lcomdlg32_@@_-luuid_@@_-loleaut32_@@_-lole32_@@__@@_
 IsCpp=1
 Icon=
 ExeOutput=
